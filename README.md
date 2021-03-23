@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-We Ailaysa | Langscape come up offer AI Machine Translations Medium and Human Post-Editing Platform.
+We Ailaysa | Langscape come up to offer AI Machine Translations Medium and Human Post-Editing Platform.
 </p>
 <hr><br>
 
