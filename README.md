@@ -13,7 +13,7 @@ We Ailaysa | Langscape come up to offer AI Machine Translations Medium and Human
 As of now, we are trying to take input sources as files (16 file formats on development process). 
 * Firstly, We'd like to take input source from the end-user as a simple text file _(*.txt)_ and extract the translatable text contents sentence-wise (text unit wise).
 * Secondly, setting up Machine Translation Engines for Translation Process where each segmented sentences will be translated. 
-* Finally, to finish up the process by merging back to the same file format.
+* Finally, to finish up the process by merging back to the same file format. </br>
 In the current process, the problems persists on extracting translatable text content from the input text file. This process is known as Segmentation ( aka tokenizing in technical term). Each segments are splited on paragraph-wise instead of sentence-wise.
 
 For Better understanding, kindly go through the following steps and try to run on your method to test the application. Please don't hesitate to raise an opition to understand more regarding this workflow or to point out if you've any idea to resolve this issue.
