@@ -1,12 +1,22 @@
-<h1 align="center"> Status Report </h1> <br>
+<h1 align="center"> Ailaysa | Langscape Language Solutions </h1> <br>
+
+<h5 align="center">
+  Why Ailaysa?
+</h5>
 
 <p align="center">
-  Current Issues in the implementation of Okapi Segmentations
+We Ailaysa | Langscape Language Solutions wanted to provide a resource for Translations.
 </p>
 
+## Current Issue in the implementation of Okapi Framework
+As of now, we are trying to take input source as files (16 file formats on development process). 
+Firstly, We'd like to take an input from the end-user as a simple text file *(*.txt)** and extract the translatable text contents alone sentence-wise (text unit wise). 
+Problems persist in the current process is that extracted translatable text content is segmenting (i.e. tokenizing in technical term) paragraph-wise instead of sentence-wise.
 
+For Better understanding, kindly go through the following steps and try to run on your method to test the application. Please don't hesitate to raise an opition to understand more regarding this workflow or to point out if you've any idea to resolve this issue.
 
-## Sample Input text file "source2.txt"
+## Steps
+### Sample Input text file "source2.txt"
 
 ```
 Dear all,
