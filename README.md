@@ -17,7 +17,7 @@ As of now, we are trying to take input sources as files (16 file formats on deve
 
 In the current process, the problems persists on extracting translatable text content from the input text file. This process is known as Segmentation ( aka tokenizing in technical term). Each segments are splited on paragraph-wise instead of sentence-wise.
 
-For Better understanding, kindly go through the following steps and try to run on your method to test the application. Please don't hesitate to raise an opition to understand more regarding this workflow or to point out if you've any idea to resolve this issue.
+For Better understanding, kindly go through the following steps or simply try on your way of testing. Please don't hesitate to raise an opition to understand more regarding this workflow or to point out if you've any idea to resolve this issue.
 
 ## Steps
 ### Sample Input text file "source2.txt"
