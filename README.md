@@ -365,7 +365,7 @@ public class mainProcessor {
 
 ```
 
-### The Result we are getting While running mainProcessor.java
+### The Result we are getting while running mainProcessor.java
 ![2021-03-23 19_27_35-translate – mainProcessor java](https://user-images.githubusercontent.com/15103613/112159291-0323ad80-8c0f-11eb-8d6a-189d76f7a7f0.png)
 
 
@@ -373,7 +373,7 @@ From the above process, we are about to take the Text content from the input fil
 
 
 ### Ratel Tool from Okapi Framework
-But on the other hand, when we’re testing Ratel tool, segmentation process happens as follows (using the same SRX Rules using "SegmentationRules.srx").
+But on the other hand, when we’re testing the same file using Ratel tool, segmentation process happens as follows (using the same SRX Rules using "SegmentationRules.srx").
 
 ![Sentence_wise_Segmented_using_Ratel](https://user-images.githubusercontent.com/15103613/112159531-467e1c00-8c0f-11eb-89a7-7376afd524a4.png)
 
