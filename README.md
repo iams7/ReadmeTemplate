@@ -7,7 +7,7 @@
 <p align="center">
 We Ailaysa | Langscape Language Solutions offer AI Machine Translations Medium and Human Post-Editing Platform.
 </p>
-<br>
+<hr><br>
 
 ## Current Issue in the implementation of Okapi Framework
 As of now, we are trying to take input sources as files (16 file formats on development process). 
