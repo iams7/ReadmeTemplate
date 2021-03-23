@@ -9,7 +9,7 @@ We Ailaysa | Langscape come up to offer AI Machine Translations Medium and Human
 </p>
 <hr><br>
 
-## Current Issue in the implementation of Okapi Framework
+## Issue persisting in the implementation of Okapi Framework
 As of now, we are trying to take input sources as files (16 file formats on development process). 
 Firstly, We'd like to take an source from the end-user as a simple text file _(*.txt)_ and extract the translatable text contents alone sentence-wise (text unit wise). </br>
 In the current process, the problems persists on extracting translatable text content from the input text file. This process is known as Segmentation ( aka tokenizing in technical term). Each segments are splited on paragraph-wise instead of sentence-wise.
