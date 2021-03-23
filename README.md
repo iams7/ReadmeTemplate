@@ -1,12 +1,13 @@
-<h1 align="center"> Ailaysa | Langscape Language Solutions </h1> <br>
+<h1 align="center"> Ailaysa | Langscape Language Solutions </h1>
 
-<h5 align="center">
+<h3 align="center">
   Why Ailaysa?
-</h5>
+</h3>
 
 <p align="center">
 We Ailaysa | Langscape Language Solutions wanted to provide a resource for Translations.
 </p>
+<br>
 
 ## Current Issue in the implementation of Okapi Framework
 As of now, we are trying to take input source as files (16 file formats on development process). 
