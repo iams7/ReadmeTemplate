@@ -38,7 +38,7 @@ Sridhar Ram
 
 
 ## Current Approach
-1.	Using Okapi Framework, Set of File filters are being used in the implementation for File Formatting to extract translatable text from the input text source (e.g. Sample.txt, sample.docx. sample.html, etc. Simple ".txt" format is chosen for the implementing basic process now).
+1.	Using Okapi Framework, Set of File filters are being used in the implementation for File Formatting to extract translatable text from the input text source (e.g. Sample.txt, sample.docx. sample.html, etc). Simple ".txt" format is chosen for the implementing basic process now.
 2.	Extracted translatable content from the files using File filter (PlainTextFilter) is required to be segmented as sentence-wise. 
     For example, When the document consists of set of paragraphs, each paragraph would consist number of sentences. Here, in the extraction process, we need the sentences to be segmented in order to reduce the complexity on workspace.
 3.	While working with Rainbow tool, it seems, it has been designed to use SRX Segmentary [SRXSegmenter] for segmenting each sentence from the input source/document (i.e. file content). Segmentation rules is required for SRXSegmenter. So, we've taken a Default SRX Rules from the Rainbow tool for sentence-wise segmentation (which is tested using Ratel tool as well - by applying in regex patterns) from Okapi framework. 
