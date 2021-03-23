@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-We Ailaysa | Langscape Language Solutions wanted to provide a resource for Translations.
+We Ailaysa | Langscape Language Solutions offer resources for Translations Medium.
 </p>
 <br>
 
