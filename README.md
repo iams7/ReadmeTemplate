@@ -359,16 +359,17 @@ From the above process, we’re about to take the Text content from the input fi
 
 
 ### Ratel Tool from Okapi Framework
-But on the other hand, when we’re testing Ratel tool, segmentation process happens as follows (using the same SRX Rules - SegmentationRules.srx).
-![Ratel_Sentencewise_Segmentation](https://user-images.githubusercontent.com/15103613/112156410-39abf900-8c0c-11eb-9b69-03fd4697bf2a.png)
+But on the other hand, when we’re testing Ratel tool, segmentation process happens as follows (using the same SRX Rules using "SegmentationRules.srx").
+
+![Sentence_wise_Segmented_using_Ratel](https://user-images.githubusercontent.com/15103613/112159531-467e1c00-8c0f-11eb-89a7-7376afd524a4.png)
 
 
 ## Quick Start for Guidance Requirement
 We ensure the tools provided by Okapi Framework for Text Filters, Sentence Segmentation, Text Extraction, Translation using Google Machine Translation Engine (v2, paid services), Translated Content Merging and Translated File Output.
 
 1.	We’d like to let our End-users to do translations sentence-wise segmented text instead of Hugh Paragraphs. And the method we have tried are as follows.
-i)    [Using IFilter](https://okapiframework.org/javadoc/net/sf/okapi/common/filters/IFilter.html)
-ii)   [Reading Document using Okapi Framework](https://okapiframework.org/devguide/gettingstarted.html#readingDocument)
-iii)  [Performing Segmentation](https://okapiframework.org/devguide/segmentation.html#performingSegmentation)
+*  [Using IFilter](https://okapiframework.org/javadoc/net/sf/okapi/common/filters/IFilter.html)
+*  [Reading Document using Okapi Framework](https://okapiframework.org/devguide/gettingstarted.html#readingDocument)
+*  [Performing Segmentation](https://okapiframework.org/devguide/segmentation.html#performingSegmentation)
 
 2.	Also we would like to know whether we have any other possibilities to achieve this sentence-wise segmentation using other methods rather using Okapi Framework.
