@@ -365,11 +365,11 @@ public class mainProcessor {
 
 ```
 
-### Output While Running mainProcessor.java
+### The Result we are getting While running mainProcessor.java
 ![2021-03-23 19_27_35-translate – mainProcessor java](https://user-images.githubusercontent.com/15103613/112159291-0323ad80-8c0f-11eb-8d6a-189d76f7a7f0.png)
 
 
-From the above process, we’re about to take the Text content from the input file (i.e. source2.txt) are being extracted by Paragraph instead of sentences. 
+From the above process, we are about to take the Text content from the input file (i.e. source2.txt) are being extracted by Paragraph instead of sentences. 
 
 
 ### Ratel Tool from Okapi Framework
