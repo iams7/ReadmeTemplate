@@ -1,4 +1,4 @@
-<h1 align="center"> Status Resport </h1> <br>
+<h1 align="center"> Status Report </h1> <br>
 
 <p align="center">
   Current Issues in the implementation of Okapi Segmentations
