@@ -11,7 +11,7 @@ We Ailaysa | Langscape Language Solutions offer resources for Translations Mediu
 
 ## Current Issue in the implementation of Okapi Framework
 As of now, we are trying to take input sources as files (16 file formats on development process). 
-Firstly, We'd like to take an source from the end-user as a simple text file *(*.txt)* and extract the translatable text contents alone sentence-wise (text unit wise). 
+Firstly, We'd like to take an source from the end-user as a simple text file _(*.txt)_ and extract the translatable text contents alone sentence-wise (text unit wise). 
 Problems persist in the current process is that extracted translatable text content is segmenting (i.e. tokenizing in technical term) paragraph-wise instead of sentence-wise.
 
 For Better understanding, kindly go through the following steps and try to run on your method to test the application. Please don't hesitate to raise an opition to understand more regarding this workflow or to point out if you've any idea to resolve this issue.
