@@ -6,7 +6,7 @@
 
 
 
-## Sample Input text file
+## Sample Input text file "source2.txt"
 
 ```
 Dear all,
@@ -352,7 +352,8 @@ public class mainProcessor {
 ```
 
 ### Output While Running mainProcessor.java
-![mainProcessor](https://user-images.githubusercontent.com/15103613/112156041-e5087e00-8c0b-11eb-82e1-d488abf8fa46.png)
+![2021-03-23 19_27_35-translate – mainProcessor java](https://user-images.githubusercontent.com/15103613/112159291-0323ad80-8c0f-11eb-8d6a-189d76f7a7f0.png)
+
 
 From the above process, we’re about to take the Text content from the input file (i.e. source2.txt) are being extracted by Paragraph instead of sentences. 
 
