@@ -378,3 +378,9 @@ We ensure the tools provided by Okapi Framework for Text Filters, Sentence Segme
 *  [Performing Segmentation](https://okapiframework.org/devguide/segmentation.html#performingSegmentation)
 
 2.	Also we would like to know whether we have any other possibilities to achieve this sentence-wise segmentation using other methods rather using Okapi Framework.
+
+##### Version Details
+Okapi: 0.48
+Ratel: 1.41.0
+FileFilters: 1.41.0
+JDK: 15.0.2
