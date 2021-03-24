@@ -366,7 +366,7 @@ public class mainProcessor {
 ```
 
 ### The Result we are getting while running mainProcessor.java
-![2021-03-23 19_27_35-translate – mainProcessor java](https://user-images.githubusercontent.com/15103613/112159291-0323ad80-8c0f-11eb-8d6a-189d76f7a7f0.png)
+![2021-03-23 19_27_35-translate – mainProcessor java](https://user-images.githubusercontent.com/15103613/112275399-93143680-8ca5-11eb-9b20-1f79f12af21d.png)
 
 
 From the above process, we are about to take the Text content from the input file (i.e. source2.txt) are being extracted by Paragraph instead of sentences. 
