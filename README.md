@@ -380,7 +380,7 @@ We ensure the tools provided by Okapi Framework for Text Filters, Sentence Segme
 2.	Also we would like to know whether we have any other possibilities to achieve this sentence-wise segmentation using other methods rather using Okapi Framework.
 
 ### Version Details
-Okapi: 0.48</br>
+Okapi: 1.41.0</br>
 Ratel: 1.41.0</br>
-FileFilters: 1.41.0</br>
+File Filters: 1.41.0 [PlainTextFilter]</br>
 JDK: 15.0.2</br>
