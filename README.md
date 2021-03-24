@@ -1,13 +1,4 @@
-<h1 align="center"> Ailaysa | Langscape Language Solutions </h1>
 
-<h3 align="center">
-  Why Ailaysa?
-</h3>
-
-<p align="center">
-We Ailaysa | Langscape come up to offer AI Machine Translations Medium and Human Post-Editing Platform.
-</p>
-<hr><br>
 
 ## Issue persisting in the implementation of Okapi Framework
 As of now, we are trying to take input sources as files (16 file formats on development process). 
